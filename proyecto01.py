@@ -7,7 +7,6 @@ This is a temporary script file.
 
 import streamlit as st
 import numpy as np
-import matplotlib.pyplot as plt
 import datetime 
 from datetime import time
 import pandas as pd
