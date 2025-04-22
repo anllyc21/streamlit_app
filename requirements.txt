@@ -1,2 +1,5 @@
 matplotlib
 plotly
+streamlit
+pandas
+openpyxl
